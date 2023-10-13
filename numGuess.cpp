@@ -2,7 +2,7 @@
 // .
 // Created by: Julien Lamoureux
 // Date: October 13, 2023
-// This program is a number guessing for whole number between 1 and 10
+// This program is a number guessing for whole number between 0 and 9
 
 #include <iostream>
 
