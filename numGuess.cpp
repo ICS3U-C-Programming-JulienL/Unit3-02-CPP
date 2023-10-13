@@ -12,7 +12,7 @@ int main() {
     const int CORRECT_GUESS = 2;
 
     // get the user guess
-    std ::cout << "An integer has been chosen from 1 to 10." << std::endl;
+    std ::cout << "An integer has been chosen from 0 to 9." << std::endl;
     std::cout << "What do you think the correct integer is: ";
     std::cin >> userGuess;
 
